@@ -1,4 +1,4 @@
-# Proyecto 2 - Clasificación de género de películas 🎧
+# Proyecto 2 - Clasificación de género de películas 🎞️
 
 **Universidad:** Universidad de los Andes  
 **Programa:** Maestría en Inteligencia Analítica de Datos - MIAD  

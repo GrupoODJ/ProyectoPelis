@@ -11,7 +11,7 @@
 
 ## 🎯 Descripción
 
-En este proyecto trabajamos con una base de datos de pistas de Spotify que abarca una amplia gama de 125 géneros musicales diferentes. Cada pista está asociada con diversas características de audio. Los datos están en formato CSV, lo cual permite cargarlos rápidamente de manera tabular.
+En este proyecto trabajamos con una base de datos de películas que abarca una amplia gama de géneros diferentes. observación contiene el título de una película, su año de lanzamiento, la sinopsis o plot de la película (resumen de la trama de una película) y los géneros a los que pertenece. Los datos están en formato CSV, lo cual permite cargarlos rápidamente de manera tabular.
 
 El trabajo se desarrolla colaborativamente en el archivo principal `S3P1_proyectoPelis.ipynb`, dentro de un entorno compartido de GitHub y controlado mediante ramas por integrante.
 
@@ -23,10 +23,9 @@ El trabajo se desarrolla colaborativamente en el archivo principal `S3P1_proyect
 |----------------------------|--------------------------|-----------------|
 | Óscar Javier Sánchez Ruiz  | `@OsCrazo`               | _(por definir)_ |
 | Clara Sierra Ossorio       | `@clairesie`             | _(por definir)_ |
-| Diego Alejandro Arias      | _(pendiente)_            | _(por definir)_ |
-| Leonardo Urrea Morales     | _(pendiente)_            | _(por definir)_ |
+| Diego Alejandro Arias      | `@Darias0185`            | _(por definir)_ |
+| Leonardo Urrea Morales     | `@LeonardoUrrea`         | _(por definir)_ |
 
-> ✏️ Nota: aún faltan los usuarios de GitHub de algunos integrantes. Se actualizará próximamente.
 ---
 
 ## 📁 Estructura del Repositorio

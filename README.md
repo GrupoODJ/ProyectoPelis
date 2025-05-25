@@ -11,7 +11,7 @@
 
 ## 🎯 Descripción
 
-En este proyecto trabajamos con una base de datos de películas que abarca una amplia gama de géneros diferentes. observación contiene el título de una película, su año de lanzamiento, la sinopsis o plot de la película (resumen de la trama de una película) y los géneros a los que pertenece. Los datos están en formato CSV, lo cual permite cargarlos rápidamente de manera tabular.
+En este proyecto trabajamos con una base de datos de películas que abarca una amplia gama de géneros diferentes. Cada observación contiene el título de una película, su año de lanzamiento, la sinopsis o plot de la película (resumen de la trama de una película) y los géneros a los que pertenece. Los datos están en formato CSV, lo cual permite cargarlos rápidamente de manera tabular.
 
 El trabajo se desarrolla colaborativamente en el archivo principal `S3P1_proyectoPelis.ipynb`, dentro de un entorno compartido de GitHub y controlado mediante ramas por integrante.
 

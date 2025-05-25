@@ -23,10 +23,9 @@ El trabajo se desarrolla colaborativamente en el archivo principal `S3P1_proyect
 |----------------------------|--------------------------|-----------------|
 | Óscar Javier Sánchez Ruiz  | `@OsCrazo`               | _(por definir)_ |
 | Clara Sierra Ossorio       | `@clairesie`             | _(por definir)_ |
-| Diego Alejandro Arias      | _(pendiente)_            | _(por definir)_ |
-| Leonardo Urrea Morales     | _(pendiente)_            | _(por definir)_ |
+| Diego Alejandro Arias      | `@Darias0185`            | _(por definir)_ |
+| Leonardo Urrea Morales     | `@LeonardoUrrea`         | _(por definir)_ |
 
-> ✏️ Nota: aún faltan los usuarios de GitHub de algunos integrantes. Se actualizará próximamente.
 ---
 
 ## 📁 Estructura del Repositorio
